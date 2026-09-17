@@ -1,0 +1,6 @@
+{
+  "name": "Nhà sản xuất gây",
+  "description": "Nhà máy sản xuất gây với 2 khay vật phẩm, tuỳ chỉnh hình ảnh, chú thích và trang công thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
